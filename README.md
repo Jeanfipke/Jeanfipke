@@ -1,15 +1,16 @@
 
-<p align=center><strong> Hello World! 🌎 </p>
+<center> <strong> <font size="7"> Hello World! 🌎 </font> </p> 
 
 
-<p align=center><strong> Meu nome é Jean Fipke  🇧🇷  20y </p>
+<center> <strong> Meu nome é Jean Fipke  🇧🇷  20y </p>
 
-- :computer::rocket: Estudante de Desenvolvimento Web Full Stack pela  [Trybe](https://www.betrybe.com/)  <img src="https://u3r3f6s2.rocketcdn.me/wp-content/uploads/2020/12/main_logo-e1621602371409.png.webp" width = 15> 
 
-- 📫📱Entre em contato comigo: 
+<center> &#x1F4BB &#x1F680 Estudante de Desenvolvimento Web Full Stack pela <a href="https://www.betrybe.com/"> Trybe  <img src="https://u3r3f6s2.rocketcdn.me/wp-content/uploads/2020/12/main_logo-e1621602371409.png.webp" width = 15> 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> jeanfipke@gmail.com 
+#
+ <center>📫📱<strong>Entre em contato comigo: 
+<p align=center>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><center> jeanfipke@gmail.com 
 
-<a href="https://www.linkedin.com/in/jeanfipke/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  >   </a>  jeanfipke 
-
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">   Jennas#2001 </p>
+<center> <a href="https://www.linkedin.com/in/jeanfipke/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  >   </a>  
+<center>jeanfipke 
